@@ -8,8 +8,8 @@ using namespace std;
     TODO: stampa la lunghezza della string passata in input
 */
 void lunghezzaStringa(string stringa){
-    //modifica
-    cout << "Da implementare" << endl;
+    int x =stringa.size();
+    cout << "la lung della stringa e: " << x;
 
 }
 
@@ -22,7 +22,7 @@ void lunghezzaStringa(string stringa){
 void trovaCiao(string stringa){
 
     cout << "Da implementare" << endl;
-    
+
 }
 
 
@@ -31,9 +31,9 @@ void trovaCiao(string stringa){
     TODO: sostituire la parola "pizza" con la parola "pasta" e stampare la nuova stringa
 */
 void sostituisciPizzaConPasta(string stringa){
-    
+
     cout << "Da implementare" << endl;
-    
+
 }
 
 
@@ -47,7 +47,7 @@ void stampaPrimaParola(string stringa){
     // TODO
 
     cout << "Da implementare" << endl;
-    
+
 }
 
 
@@ -58,7 +58,7 @@ void stampaPrimaParola(string stringa){
 void aggiungiGiovanni(string frase){
 
     cout << "Da implementare" << endl;
-    
+
 }
 
 int main()
@@ -75,7 +75,7 @@ int main()
     //sostituisciPizzaConPasta(str);
     //stampaPrimaParola(str);
     //aggiungiGiovanni(str);
-    
+
 
 
     return 0;
